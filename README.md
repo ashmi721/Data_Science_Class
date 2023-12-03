@@ -28,3 +28,17 @@
   5. Row matrix and column matrix
   6. Converting 2D array to 1D
   7. Moden day Images are in 3D
+
+
+## Pandas
+* Day 1:
+
+  1. Installing Pandas with importing pandas
+  2. Creating Series
+  3. How to define our own index in Series
+  4. How to assign Name to pandas Series
+  5. How to make Series to create DataFrame
+  6. access column of the DataFrame
+  7. Add New column to a DataFrame
+  8. count the values
+  9. find the unique and nunique
