@@ -42,3 +42,12 @@
   7. Add New column to a DataFrame
   8. count the values
   9. find the unique and nunique
+
+* Day 2:
+  1. To make DataFrame using Dictionary
+  2. convert DataFrame to Dictionary with define the origin 
+  3. Data Cleaning to use the apply method
+  4. drop the column using the inplace = True
+  5. rename the existing column name to new name
+  6. access the column of a dataframe
+  7. find the missing values using .isna() or .isnull()
