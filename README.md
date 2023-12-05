@@ -45,7 +45,7 @@
 
 * Day 2:
   1. To make DataFrame using Dictionary
-  2. convert DataFrame to Dictionary with define the origin 
+  2. convert DataFrame to Dictionary with define the orient 
   3. Data Cleaning to use the apply method
   4. drop the column using the inplace = True
   5. rename the existing column name to new name
