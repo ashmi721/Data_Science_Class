@@ -51,3 +51,22 @@
   5. rename the existing column name to new name
   6. access the column of a dataframe
   7. find the missing values using .isna() or .isnull()
+
+* Day 3:
+  1. Read the tips.csv file
+  2. .info(),.describe(),.unique(),.nunique()
+  3. loc()
+  4. .iloc()
+  5. .groupby()
+
+  * Day 4:
+  1. Introduce to sql
+  2. learn table relationship primary key or foreign key concept
+  3. Table joining
+
+
+## Data visulizations
+* Day 1:
+  1. Introduction to matplotlib, seaborn and plotly
+  2. plot the linechart,barplot,pie_chart
+  
