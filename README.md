@@ -59,7 +59,7 @@
   4. .iloc()
   5. .groupby()
 
-  * Day 4:
+* Day 4:
   1. Introduce to sql
   2. learn table relationship primary key or foreign key concept
   3. Table joining
@@ -69,4 +69,13 @@
 * Day 1:
   1. Introduction to matplotlib, seaborn and plotly
   2. plot the linechart,barplot,pie_chart
-  
+* Day 2:
+  1. Plot the Histogram
+  2. Kdeplot
+  3. Boxplot
+ 
+* Day 3:
+  1. Scatterplot
+  2. Multivariate
+          
+       
