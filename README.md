@@ -69,6 +69,7 @@
 * Day 1:
   1. Introduction to matplotlib, seaborn and plotly
   2. plot the linechart,barplot,pie_chart
+
 * Day 2:
   1. Plot the Histogram
   2. Kdeplot
@@ -77,5 +78,28 @@
 * Day 3:
   1. Scatterplot
   2. Multivariate
+  3. Pairplot
+
+* Day 4:
+  1. read the penguins dataset 
+  2. plot the different differnt data visulizations figure
+
+## Math
+* Day 1:
+  1. Mean, Median, Mode
+  2. Different between mean and median
+  3. Application of mean and median
+  4. Normal distribution (std, mean)
+  5. Dispersion
+  6. Standart deviation
+  7. Range
+
+* Day 2:
+  1. Qartile deviation(Q1,Q2,Q3)
+  2. Sknew
+  3. Kurtosis
+  4. Types of Kurtosis
+
+
           
        
