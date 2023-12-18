@@ -100,6 +100,17 @@
   3. Kurtosis
   4. Types of Kurtosis
 
+* Day 3:
+  1. Introduction to Probability
+  2. Probability Line
+  3. Event terminology
+  4. Conditinal Probability
+  
+* Day 4:
+  1. Count (Permutation, Combinations)
+  2. Random variable  
+  3. Types of random variable(Discrete, continouse)
+  4. Types of Descrete Probability(Bernoulli, Bionomial, Poision)
+       
 
-          
        
