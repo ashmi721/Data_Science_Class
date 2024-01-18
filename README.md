@@ -257,7 +257,27 @@
 
 * Day 29:
 
-  1. K-Means Clusters
+1. K-Means Clusters
+2. Hierachical clusters
+3. DBSCAN Clusters
+
+* Day 30:
+
+1. Introduction to NLP
+  i. Text Preprocessing  
+    * Tokenization
+    * Lower casing
+    * Stop words removal
+    * Stemming
+    * Lemmatization
+
+* Day 31:
+
+1. make pipeline
+2. naive bayes classifire
+3. using FastAPI 
+4. Making Spam being spam or not    
+  
 
 
   

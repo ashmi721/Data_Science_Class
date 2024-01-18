@@ -1,7 +1,7 @@
 import pickle
 import streamlit as st 
 
-with open('model.pickle','rb') as file:
+with open('pickle file/model.pickle','rb') as file:
     model = pickle.load(file)
 
 year = st.text_input('Years of Exprience')
