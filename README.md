@@ -279,6 +279,9 @@
 4. Making Spam being spam or not    
   
 
+* Day 32:
+
+1. Basic use of  Regex in nlp
 
   
       
