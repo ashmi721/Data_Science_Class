@@ -4,7 +4,7 @@ import pandas as pd
 
 df = pd.read_csv('Cleaned_car.csv')
 
-with open('Automobilesmodel.pkl','rb') as file:
+with open('model.pickle','rb') as file:
     model = pickle.load(file) 
     
     
@@ -24,8 +24,7 @@ Leather_interior = st.selectbox('Select Leather interior',(filtered_data['Leathe
 Engine_volume = st.selectbox('Select Engine volume',(filtered_data['Engine volume'].unique()))
 levy = st.selectbox('Select Levy',(filtered_data['Levy'].unique()))
 kms = st.selectbox('Kms driven',(filtered_data['Mileage'].unique()))
-Fuel  = st.selectbox('Fuel type',(filtered_data['Fuel type'].unique()))
-
+Fuel_type = st.selectbox('Fuel type', filtered_data['Fuel type'].unique())
 
 if st.button('Predict'):
    user_features = pd.DataFrame({
@@ -37,7 +36,7 @@ if st.button('Predict'):
         'Engine volume': [Engine_volume],
         'Mileage': [int(kms)],
         'Levy':[float(levy)],
-        'Fule_type': [Fuel],
+        'Fule_type': [Fuel_type]
         
     })
    predicted_price = model.predict(user_features)[0] 
